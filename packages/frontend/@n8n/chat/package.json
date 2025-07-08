@@ -56,7 +56,9 @@
     "vite": "catalog:",
     "vitest": "catalog:",
     "vite-plugin-dts": "^4.5.3",
-    "vue-tsc": "catalog:frontend"
+    "vue-tsc": "catalog:frontend",
+    "cross-env": "^7.0.3"
+
   },
   "files": [
     "README.md",
